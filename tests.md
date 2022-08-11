@@ -73,4 +73,8 @@ ip="1.x.x.x"
 
 ### Shell check
 
-Run shellcheck on 
+Run shellcheck on a docker current koalaman/shellcheck-alpine:v0.8.0 due to an issue with the lastest 
+
+### PHP check
+
+Linting via php8.1 it is currently limted to only the basic linting..
